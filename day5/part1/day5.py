@@ -1,4 +1,5 @@
 # It is not a optimal solution, but it works if you have enough memory
+# I'll try to find a better solution later
 results = {
     'seed-to-soil': {},
     'soil-to-fertilizer': {},
